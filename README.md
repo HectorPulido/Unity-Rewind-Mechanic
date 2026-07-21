@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This project has moved.** It now lives in [`AwesomeUnityProjects/rewind-mechanic`](https://github.com/HectorPulido/AwesomeUnityProjects/tree/main/rewind-mechanic). This repo is archived and read-only.
+
 # UNITY REWIND MECHANIC
 <b>This is a Braid clone made with Unity and C#</b><br/>
 [![Banner](http://img.youtube.com/vi/YPiE-N4vD0U/0.jpg)](http://www.youtube.com/watch?v=YPiE-N4vD0U)
